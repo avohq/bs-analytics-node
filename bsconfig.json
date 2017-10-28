@@ -1,0 +1,12 @@
+{
+  "name": "bs-analytics-node",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies" : [
+  ],
+  "namespace": true,
+  "generate-merlin": true,
+  "bsc-flags": ["-bs-super-errors"],
+  "suffix": ".bs.js"
+}

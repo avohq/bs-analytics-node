@@ -1,0 +1,22 @@
+{
+  "name": "bs-analytics-node",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "bs-platform": "^1.10.3"
+  },
+  "dependencies": {
+    "analytics-node": "3.0.0"
+  },
+  "description": "BuckleScript bindings for analytics-node",
+  "repository": "git@github.com:viskahq/bs-analytics-node.git",
+  "author": ""
+}
