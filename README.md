@@ -1,16 +1,8 @@
+This package contains bucklescript bindings for [analytics-node](https://www.npmjs.com/package/analytics-node)
 
-
-# Build
-```
-npm run build
-```
-
-# Watch
+### Getting started
+Make sure to have bs-platform installed
 
 ```
-npm run watch
+yarn add bs-analytics-node
 ```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
